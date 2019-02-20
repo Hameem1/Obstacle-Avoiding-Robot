@@ -1,0 +1,19 @@
+___awdiv: CODE, 2484 0 164
+___aldiv: CODE, 1652 0 252
+___ftpack: CODE, 2316 0 168
+_main: CODE, 898 0 424
+___ftadd: CODE, 392 0 506
+_vel_read: CODE, 2132 0 184
+__initialization: CODE, 2648 0 72
+_isr: CODE, 8 0 380
+_interrupt_enable: CODE, 3016 0 10
+_init_QEI: CODE, 2898 0 40
+___ftmul: CODE, 1904 0 228
+_init_pwm: CODE, 2856 0 42
+_init_time_base: CODE, 2998 0 18
+___awtoft: CODE, 2726 0 72
+___wmul: CODE, 2938 0 38
+_init_I2C: CODE, 2976 0 22
+___fttol: CODE, 1322 0 330
+_pwm_generator: CODE, 2798 0 58
+Total: 3008
