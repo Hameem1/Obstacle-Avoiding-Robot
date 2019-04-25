@@ -59,4 +59,4 @@ Power Board             |            H-Bridge
 
 ### Demo
 
-![](https://i.imgur.com/DXCJ32A.gif)
+![](https://i.imgur.com/TPuCmSh.gif)
