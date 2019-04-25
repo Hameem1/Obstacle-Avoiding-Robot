@@ -1,7 +1,5 @@
 # Obstacle Avoiding Robot
 
-## Abstract
-
 An obstacle avoiding robot which uses fuzzy logic based motor control and is implemented using PIC18 series micro-controllers.
 
 This code is designed to run on 3 separate micro-controllers.
@@ -10,22 +8,7 @@ This code is designed to run on 3 separate micro-controllers.
 
 ***
 
-## Hardware Specifications
-
-#### Component list
-
-- Acrylic Sheet (For chassis)
-- PCBs (Master board, Slave boards, Power control, H-bridges)
-- Ultrasonic Sensors (x6)
-- Geared motors (x2)
-- LiPo BATTERY
-- PIC18F4550
-- PIC18F2431
-- Wheels
-- Switch
-- LCD
-
-#### The Basic Idea
+## Overview
 
 - The robot takes obstacle distance readings from a semi circular array of 6 ultrasonic sensors at the front.
 
@@ -41,3 +24,39 @@ This code is designed to run on 3 separate micro-controllers.
 
 - All of this is powered by a LiPo battery fed to a voltage regulation circuit. A switch is used to turn on the battery.
 
+
+### Component list
+
+- Acrylic Sheet (For chassis)
+- PCBs (Master board, Slave boards, Power control, H-bridges)
+- Ultrasonic Sensors (x6)
+- Geared motors (x2)
+- LiPo BATTERY
+- PIC18F4550
+- PIC18F2431
+- Wheels
+- Switch
+- LCD
+
+### PCB Design
+
+![](https://i.imgur.com/3kPLMld.jpg)
+
+Master             |            Slave
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/Nf30w2t.jpg)  |  ![](https://i.imgur.com/AUDoV4S.jpg)
+
+Power Board             |            H-Bridge
+:-------------------------:|:-------------------------:
+![](https://i.imgur.com/WxHnqP2.jpg)  |  ![](https://i.imgur.com/Qc3Aui1.jpg)
+
+
+#### The Robot
+
+![](https://i.imgur.com/foDMsC8.jpg)
+
+![](https://i.imgur.com/WlZThRP.jpg)
+
+### Demo
+
+![](https://i.imgur.com/DXCJ32A.gif)
