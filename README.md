@@ -25,7 +25,7 @@ This code is designed to run on 3 separate micro-controllers.
 - All of this is powered by a LiPo battery fed to a voltage regulation circuit. A switch is used to turn on the battery.
 
 
-### Component list
+## Component list
 
 - Acrylic Sheet (For chassis)
 - PCBs (Master board, Slave boards, Power control, H-bridges)
@@ -38,7 +38,7 @@ This code is designed to run on 3 separate micro-controllers.
 - Switch
 - LCD
 
-### PCB Design
+## PCB Design
 
 ![](https://i.imgur.com/3kPLMld.jpg)
 
@@ -51,7 +51,7 @@ Power Board             |            H-Bridge
 ![](https://i.imgur.com/WxHnqP2.jpg)  |  ![](https://i.imgur.com/Qc3Aui1.jpg)
 
 
-#### The Robot
+## The Robot
 
 ![](https://i.imgur.com/foDMsC8.jpg)
 
@@ -59,4 +59,4 @@ Power Board             |            H-Bridge
 
 ### Demo
 
-![](https://i.imgur.com/f6g8SEU.gif)
+https://drive.google.com/file/d/1B_wSCzIXVE4DQtoK-q6M3EEdJ4ioSQuX/view?usp=sharing
